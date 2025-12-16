@@ -11,8 +11,8 @@
 // @match        na.geostudio.last-mile.amazon.dev/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=https://advertising.amazon.com/
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/YourName/YourRepo/main/my-script.user.js
-// @updateURL    https://raw.githubusercontent.com/YourName/YourRepo/main/my-script.user.js
+// @downloadURL  https://github.com/VivekYadav1597/Repository1/blob/main/Falcon%20Detox%202%20Dynamic%20Dropdowns-10.0.user.js
+// @updateURL    https://github.com/VivekYadav1597/Repository1/blob/main/Falcon%20Detox%202%20Dynamic%20Dropdowns-10.0.user.js
 // ==/UserScript==
 
 (function() {
